@@ -1,0 +1,126 @@
+# NAME: web3allinone
+# AUTHOR: xiodos
+# REPO: https://github.com/wuqingchangan
+# UPDATED: 2023-07-20 23:24:40
+# DOMAIN-SUFFIX: 33
+# TOTAL: 33
+# 交易所
+# Binance
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.ink
+DOMAIN-SUFFIX,binancezh.kim
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.live
+DOMAIN-SUFFIX,binancezh.mobi
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.sh
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,nftstatic.com
+DOMAIN-SUFFIX,qa1fdg.net
+DOMAIN-SUFFIX,online-metrix.net
+DOMAIN-SUFFIX,riskfied.com
+DOMAIN-SUFFIX,commonservice.io
+# OKX
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudflare.org
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,appcenter.ms
+# Bitget
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetapp.com
+DOMAIN-SUFFIX,bitget.site
+DOMAIN-SUFFIX,bgportable.com
+DOMAIN-SUFFIX,appsflyer.com
+# 芝麻
+DOMAIN-SUFFIX,gate.io
+# 抹茶
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,coinmarketcap
+DOMAIN-SUFFIX,coinmarketcap.com
+
+# 钱包
+# tp
+DOMAIN-SUFFIX,tokenpocket.pro
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,defibit.io
+DOMAIN-SUFFIX,ankr.com
+DOMAIN-SUFFIX,ninicoin.io
+DOMAIN-SUFFIX,layer3.team
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,githubusercontect.com
+DOMAIN-SUFFIX,coinbase.com
+# imtoken
+DOMAIN-SUFFIX,token.im
+# metamask
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,cryptocompare.com
+DOMAIN-SUFFIX,codefi.network
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,mixpanel.com
+# safepal
+DOMAIN-SUFFIX,safepal.com
+# debank
+DOMAIN-SUFFIX,debank.com
+
+# swap
+# pancake
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,pancakeswap.com
+# uniswap
+DOMAIN-SUFFIX,uniswap.org
+# opensea
+DOMAIN-SUFFIX,opensea.io
+# tofunft
+DOMAIN-SUFFIX,tofunft.com
+
+#网站
+# ave
+DOMAIN-SUFFIX,ave.ai
+DOMAIN-SUFFIX,aveaiappd.github.io
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,avestorage.cloud
+DOMAIN-SUFFIX,pea6css.xyz
+DOMAIN-SUFFIX,avemoon07.org
+DOMAIN-SUFFIX,opencc.xyz
+# dextool
+DOMAIN-SUFFIX,dextools.io
+# arb
+DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,infura.io
+
+
+
+
+
+
+
