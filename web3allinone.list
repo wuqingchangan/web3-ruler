@@ -82,6 +82,9 @@ DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,githubusercontect.com
 DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,nodereal.io
+DOMAIN-SUFFIX,rpc.com
+DOMAIN-SUFFIX,axiom.co
 # imtoken
 DOMAIN-SUFFIX,token.im
 # metamask
