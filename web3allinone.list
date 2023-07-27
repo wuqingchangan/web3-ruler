@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,riskfied.com
 DOMAIN-SUFFIX,commonservice.io
 # OKX
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,cloudfront.net
