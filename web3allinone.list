@@ -90,6 +90,8 @@ DOMAIN-SUFFIX,axiom.co
 DOMAIN-SUFFIX,api.iost.io
 DOMAIN-SUFFIX,revoke.cash
 DOMAIN-SUFFIX,polygon-rpc.com
+DOMAIN-SUFFIX,tokensniffer.com
+DOMAIN-SUFFIX,gz.bcebos.com
 # imtoken
 DOMAIN-SUFFIX,token.im
 # metamask
@@ -111,6 +113,7 @@ DOMAIN-SUFFIX,rabby.io
 # pancake
 DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,pancakeswap.com
+DOMAIN-SUFFIX,pancakeswap.info
 # uniswap
 DOMAIN-SUFFIX,uniswap.org
 # opensea
