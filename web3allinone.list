@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,cloudflare.org
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,okx-dns1.com
 # Bitget
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitgetapp.com
