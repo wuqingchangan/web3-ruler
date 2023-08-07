@@ -140,6 +140,12 @@ DOMAIN-SUFFIX,infura.io
 # ENS
 DOMAIN-SUFFIX,ens.com
 DOMAIN-SUFFIX,app.ens.domains
+# Other
+DOMAIN-SUFFIX,debot.ai
+DOMAIN-SUFFIX,diting.io
+DOMAIN-SUFFIX,api.peacs8s.xyz
+DOMAIN-SUFFIX,1inch.io
+DOMAIN-SUFFIX,blockpi.network
 
 
 
