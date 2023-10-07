@@ -68,6 +68,19 @@ DOMAIN-SUFFIX,onelink.me
 DOMAIN-SUFFIX,endpoint.csper.io
 # 芝麻
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,fx-appws.gateio.live
+DOMAIN-SUFFIX,cdn-webws.gateio.live
+DOMAIN-SUFFIX,fx-ws-testnet.gateio.live
+DOMAIN-SUFFIX,social.gateio.im
+DOMAIN-SUFFIX,push.appchannel.link
+DOMAIN-SUFFIX,app.smartappnet.net
+DOMAIN-SUFFIX,app.studiotv.net
+DOMAIN-SUFFIX,app.adjust.com
+DOMAIN-SUFFIX,gimg2.gateimg.com
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,bitstreamonline.net
+DOMAIN-SUFFIX,gaterelav.com
+DOMAIN-SUFFIX,gateio.im
 # 抹茶
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,coinmarketcap
