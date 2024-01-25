@@ -17,6 +17,9 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,okx-dns1.com
+# 火币
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.ug
 # Bitget
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitgetapp.com
@@ -82,6 +85,10 @@ DOMAIN-SUFFIX,ipfs.io
 # debank
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,rabby.io
+# tonkeeper
+DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,tonkeeper.com
+DOMAIN-SUFFIX,tonapi.io
 
 # swap
 # pancake
